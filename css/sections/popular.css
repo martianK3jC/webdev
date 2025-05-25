@@ -61,7 +61,7 @@
 
 .popular-foods__filter-btn.active{
     background: var(--color-white);
-    color: var(--color-white);
+    color: var(--primary-color);
 }
 
 .popular-foods__filter-btn:hover{
@@ -200,7 +200,7 @@
 
 
 
-
+ 
 
 
 
